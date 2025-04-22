@@ -24,7 +24,7 @@ import { NbTooltipModule } from "@nebular/theme";
     BrowserAnimationsModule,
     HttpClientModule,
     AppRoutingModule,
-    NgbModule.forRoot(),
+    NgbModule,
     ThemeModule.forRoot(),
     CoreModule.forRoot(),
     NbTooltipModule,
